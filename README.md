@@ -48,8 +48,12 @@ the body of the snake
 ## Build Commands
 - cmake -B build -S ( to generate build file)
 - cmake --build build (to build the application)
-- programname.exe  (to run the program)
 
-## Game menu
+## Current game UI
+
+https://github.com/user-attachments/assets/ba54a785-5276-4202-9ee1-9e809da26748
+
+
+
 -
 
